@@ -1,5 +1,7 @@
-WWW programming coursework, spring 2018.
+<h1> WWW programming coursework, spring 2018. </h1>
 For additional information, see coursework.pdf - file
+<br>
+<hr>
 
 
 
