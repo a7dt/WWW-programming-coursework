@@ -1,3 +1,8 @@
+WWW programming coursework, spring 2018.
+For additional information, see coursework.pdf - file
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
